@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "hackernewscronjob", "hackernewscronjob\hackernewscronjob.njsproj", "{5C4AAA37-050D-4DCD-980F-348F5411DE57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackernewsapi", "hackernewsapi\hackernewsapi.csproj", "{526F922F-FC60-4540-A723-72ECF8134A65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4AAA37-050D-4DCD-980F-348F5411DE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4AAA37-050D-4DCD-980F-348F5411DE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4AAA37-050D-4DCD-980F-348F5411DE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4AAA37-050D-4DCD-980F-348F5411DE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526F922F-FC60-4540-A723-72ECF8134A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526F922F-FC60-4540-A723-72ECF8134A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526F922F-FC60-4540-A723-72ECF8134A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526F922F-FC60-4540-A723-72ECF8134A65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {217D1143-8399-4409-AD2F-F1FE7FE5895B}
+	EndGlobalSection
+EndGlobal

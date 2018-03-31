@@ -1,0 +1,10 @@
+D:\labas\ngnetflix\hackernews\hackernewsapi\bin\Debug\netcoreapp2.0\hackernewsapi.deps.json
+D:\labas\ngnetflix\hackernews\hackernewsapi\bin\Debug\netcoreapp2.0\hackernewsapi.runtimeconfig.json
+D:\labas\ngnetflix\hackernews\hackernewsapi\bin\Debug\netcoreapp2.0\hackernewsapi.runtimeconfig.dev.json
+D:\labas\ngnetflix\hackernews\hackernewsapi\bin\Debug\netcoreapp2.0\hackernewsapi.dll
+D:\labas\ngnetflix\hackernews\hackernewsapi\bin\Debug\netcoreapp2.0\hackernewsapi.pdb
+D:\labas\ngnetflix\hackernews\hackernewsapi\obj\Debug\netcoreapp2.0\hackernewsapi.csproj.CoreCompileInputs.cache
+D:\labas\ngnetflix\hackernews\hackernewsapi\obj\Debug\netcoreapp2.0\hackernewsapi.AssemblyInfoInputs.cache
+D:\labas\ngnetflix\hackernews\hackernewsapi\obj\Debug\netcoreapp2.0\hackernewsapi.AssemblyInfo.cs
+D:\labas\ngnetflix\hackernews\hackernewsapi\obj\Debug\netcoreapp2.0\hackernewsapi.dll
+D:\labas\ngnetflix\hackernews\hackernewsapi\obj\Debug\netcoreapp2.0\hackernewsapi.pdb

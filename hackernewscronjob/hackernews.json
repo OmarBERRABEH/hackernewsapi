@@ -1,0 +1,14 @@
+﻿{
+  "database": {
+    "server": "127.0.0.1",
+    "dbname": "hackernews",
+    "username": "omar",
+    "password":  "loulou"
+  },
+  "api": {
+    "base": "https://hacker-news.firebaseio.com/v0/",
+    "new": "newstories.json",
+    "item": "item",
+    "job": "jobstories.json"
+  }
+}
